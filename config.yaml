@@ -9,9 +9,6 @@ googleAnalytics: G-12345
 enableRobotsTXT: true
 menu:
   main:
-  - url: "/post/RPL/"
-    name: RPL
-    weight: 2
   - url: "/post/"
     name: Arsip
     title: Archive
