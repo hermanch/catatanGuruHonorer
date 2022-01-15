@@ -1,4 +1,5 @@
 +++
+draft = true
 
 +++
 ![](/uploads/banneroop.jpg)
