@@ -1,6 +1,5 @@
 +++
 date = 2022-01-15T17:00:00Z
-draft = true
 title = "03 Kurikulum"
 
 +++
