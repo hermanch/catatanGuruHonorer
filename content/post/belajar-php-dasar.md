@@ -3,7 +3,7 @@ title: Belajar Php Dasar
 date: 2022-01-15T23:35:09.000+07:00
 
 ---
-!\[Belajar PHP\](/media/upload/banner.jpg)
+![](/uploads/banner.jpg)
 
 # Belajar PHP Dasar
 
