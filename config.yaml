@@ -9,7 +9,7 @@ googleAnalytics: G-12345
 enableRobotsTXT: true
 menu:
   main:
-  - url: "/post/RPL"
+  - url: "/post/rpl/"
     name: RPL
     weight: 2
   - url: "/post/"
