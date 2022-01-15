@@ -5,8 +5,6 @@ title = "Belajar OOP PHP"
 +++
 ![](/uploads/banneroop.jpg)
 
-# Belajar OOP PHP
-
 Object Oriented Programming adalah sudut pandang bahasa pemrograman yang berkonsep “objek”.
 Object adalah data yang berisi field / properties / attributes dan method / function / behavior.
 
