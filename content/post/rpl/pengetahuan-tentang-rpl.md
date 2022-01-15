@@ -1,6 +1,9 @@
 +++
 date = 2022-01-15T17:00:00Z
 title = "Pengetahuan Tentang RPL"
+[menu.main]
+name = "RPL"
+weight = 2
 
 +++
 <h1>Kurikulum SMK Rekayasa Perangkat Lunak</h1>
