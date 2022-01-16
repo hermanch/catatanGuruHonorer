@@ -21,7 +21,7 @@ params:
   description: ''
   dateFormat: '2006-01-02'
   paginationSinglePost: true
-  style: dark-with-switcher
+  style: dark-without-switcher
   readMore: false
   disableSummary: false
   utterancesRepo: ''
