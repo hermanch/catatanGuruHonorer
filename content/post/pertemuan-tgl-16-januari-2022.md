@@ -26,15 +26,17 @@ Buka Terminal atau shell
 
 lalu ketikan
 
-    > php nama_file.php
+```shell
+php nama_file.php
+```
 
 dan hasilnya akan seperti ini :
 
->     PS C:\xampp\htdocs> php .\input.php
->     
->     Siapa nama kamu: Herman
->     
->     Hello Herman, apa kabar?
+```shell
+PS C:\xampp\htdocs> php .\input.php
+Siapa nama kamu: Herman
+Hello Herman, apa kabar?
+```
 
 **Study Kasus**
 
