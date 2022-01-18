@@ -7,5 +7,5 @@ weight = 2
 
 +++
 | Mata Pelajaran | Class | Subclass | World |
-| --- | --- | --- | --- |
+|  | --- | --- | --- |
 | Public | Y | Y | Y |
