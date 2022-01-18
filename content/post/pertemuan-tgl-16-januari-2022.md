@@ -18,6 +18,7 @@ cara sederhana untuk mendapatkan input dari user ialah melalui CLI (Command Line
 echo "Siapa nama kamu: ";
 $nama = trim(fgets(STDIN));
 echo "Hello $nama, apa kabar?\\n";
+
 ?>
 ```
 
