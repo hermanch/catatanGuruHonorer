@@ -44,7 +44,8 @@ _membuat aplikasi pembayaran menggunakan STDIN dan Control Flow IF ELSE_
 
 Code :
 
-    <?php
+```
+<?php
     echo "========== Aplikasi Pembayaran =========== \n";
     echo "Masukan total belanja anda : ";
     $total_belanja = trim(fgets(STDIN));
@@ -54,6 +55,7 @@ Code :
     echo "Terimakasi anda telah berbelanja di toko kami!";
     }
     ?>
+```
 
 Hasilnya akan seperti ini :
 
