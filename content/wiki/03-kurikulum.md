@@ -6,7 +6,6 @@ name = "RPL"
 weight = 2
 
 +++
-|			|				| Kelas|
-|Mata Pelajaran|alokasi waktu|X|XI|XII|
-|			|				|1|2||1|2||1|2|
-----------------------------------------
+| Mata Pelajaran | Class | Subclass | World |
+| --- | --- | --- | --- |
+| Public | Y | Y | Y |
