@@ -12,7 +12,7 @@ PHP CLI merupakan PHP yang berjalan di atas _Command Line_. Biasanya, program ya
 cara sederhana untuk mendapatkan input dari user ialah melalui CLI (Command Line), yaitu menggunakan **`STDIN,`** gunakan fungsi **`trim()`** untuk membersihkannya dari “**`\n`**”. Contoh:
 
 
-```
+```php
 <?php
 
 echo "Siapa nama kamu: ";
