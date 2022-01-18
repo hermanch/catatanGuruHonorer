@@ -11,7 +11,6 @@ PHP CLI merupakan PHP yang berjalan di atas _Command Line_. Biasanya, program ya
 
 cara sederhana untuk mendapatkan input dari user ialah melalui CLI (Command Line), yaitu menggunakan **`STDIN,`** gunakan fungsi **`trim()`** untuk membersihkannya dari “**`\n`**”. Contoh:
 
-
 ```php
 <?php
 
@@ -61,8 +60,12 @@ Code :
 
 Hasilnya akan seperti ini :
 
->     PS C:\xampp\htdocs> php .\aplikasi_pembayaran.php
->     ========== Aplikasi Pembayaran ===========
->     Masukan total belanja anda : 300000
->     Selamat anda mendapatkan hadiah..!
->     PS C:\xampp\htdocs>
+```shell
+PS C:\xampp\htdocs> php .\aplikasi_pembayaran.php
+========== Aplikasi Pembayaran ===========
+Masukan total belanja anda : 300000
+Selamat anda mendapatkan hadiah..!
+PS C:\xampp\htdocs>
+```
+
+Cukup sekian penjelasan tentang cara mendapatkan input dari CLI di PHP, lain kali kita akan membahas study kasus yang lain.
