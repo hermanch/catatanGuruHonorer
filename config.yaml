@@ -9,6 +9,9 @@ googleAnalytics: G-12345
 enableRobotsTXT: true
 menu:
   main:
+  - url: https://hermancahyono.xyz/smkmifin/
+    name: CBT SMK
+    weight: 3
   - url: "/post/"
     name: Arsip
     title: Archive
