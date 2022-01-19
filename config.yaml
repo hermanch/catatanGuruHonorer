@@ -9,6 +9,9 @@ googleAnalytics: G-12345
 enableRobotsTXT: true
 menu:
   main:
+  - url: https://rdmmtsmifin.hermancahyono.xyz/
+    name: RDM MTs MIFIN
+    weight: 4
   - url: https://hermancahyono.xyz/smkmifin/
     name: CBT SMK
     weight: 3
